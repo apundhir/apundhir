@@ -10,8 +10,6 @@
 - - ⚡ Fun fact: ...
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as Data Science Manager at G42 Analytics
 - 💬 Ask me about AI and Data Science Management
 
