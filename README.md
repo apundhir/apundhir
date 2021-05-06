@@ -27,3 +27,11 @@
 [facebook]: https://www.facebook.com/ajay.iiitb
 [linkedin]: https://www.linkedin.com/in/apundhir
 
+## 📝 Latest Blog Posts
+
+These are my latest posts on [Medium](https://medium.com/@apundhir):
+
+### Medium
+<!-- MEDIUM:START -->
+https://medium.com/analytics-vidhya/data-science-project-kpis-b63252e3bc37
+<!-- MEDIUM:END -->
