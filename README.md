@@ -65,11 +65,10 @@ These are my latest posts on [Medium](https://medium.com/@apundhir):
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-<br>
-<a href="https://github.com/apundhir">
-<img align="center" alt="Ajay's Github Stats" src="https://https://github-readme-stats.vercel.app//api?username=apundhir&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/apundhir">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=apundhir&layout=compact&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apundhir&repo=github-readme-stats" />
 </a>
-</br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apundhir&repo=convoychat" />
+</a>
 
