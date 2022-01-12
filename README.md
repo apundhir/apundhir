@@ -22,7 +22,7 @@
 
 <br />
 
-[website]: https://mylearning.blog
+[website]: https://www.aiexponent.com
 [twitter]: https://twitter.com/ajaypundhir
 [facebook]: https://www.facebook.com/ajay.iiitb
 [linkedin]: https://www.linkedin.com/in/apundhir
