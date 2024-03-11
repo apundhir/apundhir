@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Pundhir</h1>
-<h3 align="center">- 🔭 I’m currently working as Senior Data Science Manager at G42 Analytics</h3>
+<h3 align="center">- 🔭 I’m currently working as Principal Data Scientist at G42 Analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apundhir&label=Profile%20views&color=0e75b6&style=flat" alt="apundhir" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://aiexponent.com/](https://aiexponent.com/)
 
-- 💬 Ask me about **AI Strategy, AI Product Management, Data Science KPI, Machine Learning**
+- 💬 Ask me about **AI Strategy, AI Product Management and Machine Learning**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
