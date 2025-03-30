@@ -4,6 +4,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=apundhir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/apundhir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ajaypundhir?logo=twitter&style=for-the-badge)](https://twitter.com/ajaypundhir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ajaypundhir)
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=firefox)](https://aiexponent.com)
 
 ### About Me
 
