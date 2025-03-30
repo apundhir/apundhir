@@ -1,5 +1,5 @@
 # Ajay Pundhir
-## AI Business Leader & Principal Data Scientist at G42
+## AI Business Leader & Head of Artificial Intelligence at Presight
 
 [![Profile Views](https://komarev.com/ghpvc/?username=apundhir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/apundhir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ajaypundhir?logo=twitter&style=for-the-badge)](https://twitter.com/ajaypundhir)
@@ -7,7 +7,7 @@
 
 ### About Me
 
-I'm an experienced AI Business Leader and Principal Data Scientist, currently leading AI initiatives at G42. With a strong background in artificial intelligence and business strategy, I help organizations leverage AI technologies to drive innovation and business value.
+I'm an experienced AI Business Leader and Head of Artificial Intelligence, currently leading AI initiatives at Presight. With a strong background in artificial intelligence and business strategy, I help organizations leverage AI technologies to drive innovation and business value.
 
 ### 🔭 Current Focus
 - Building and scaling enterprise AI platforms
@@ -32,8 +32,8 @@ I'm an experienced AI Business Leader and Principal Data Scientist, currently le
 - [Twitter](https://twitter.com/ajaypundhir)
 - [LinkedIn](https://linkedin.com/in/ajaypundhir)
 - [Kaggle](https://kaggle.com/apundhir)
-- [Medium](https://medium.com/@apundhir)
-- [YouTube](https://www.youtube.com/c/ucpxmu3alqyle0wrdtikbilg)
+- [Medium](https://medium.com/@ajaypundhir)
+- [YouTube](https://www.youtube.com/@aiexponent)
 - [Blog RSS Feed](https://aiexponent.com/feed/)
 
 ### 💻 Tech Stack
