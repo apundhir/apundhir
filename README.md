@@ -1,12 +1,11 @@
 # Ajay Pundhir
-## AI Business Leader & Head of Artificial Intelligence at Presight
+<img src="assets/Ajay Banner.png" alt="AiExponent — Ajay Pundhir" width="100%" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=apundhir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/apundhir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ajaypundhir?logo=twitter&style=for-the-badge)](https://twitter.com/ajaypundhir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ajaypundhir)
 [![Website](https://img.shields.io/badge/Website-Visit-009292?style=for-the-badge&logo=firefox&logoColor=white)](https://aiexponent.com)
 
-<img src="assets/Ajay Banner.png" alt="AiExponent — Ajay Pundhir" width="100%" />
 
 ### 📈 Impact highlights
 - Reduced model time-to-deployment by 70% via enterprise AI platform adoption
