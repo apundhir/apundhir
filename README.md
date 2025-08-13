@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ajaypundhir)
 [![Website](https://img.shields.io/badge/Website-Visit-009292?style=for-the-badge&logo=firefox&logoColor=white)](https://aiexponent.com)
 
-<img src="assets/hero.svg" alt="AiExponent — Ajay Pundhir" width="100%" />
+<img src="assets/Ajay Banner.png" alt="AiExponent — Ajay Pundhir" width="100%" />
 
 ### 📈 Impact highlights
 - Reduced model time-to-deployment by 70% via enterprise AI platform adoption
