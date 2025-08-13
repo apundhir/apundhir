@@ -1,5 +1,5 @@
 # Ajay Pundhir
-<img src="assets/Ajay Banner.png" alt="AiExponent — Ajay Pundhir" width="100%" />
+<img src="assets/Ajay Banner.jpg" alt="AiExponent — Ajay Pundhir" width="100%" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=apundhir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/apundhir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ajaypundhir?logo=twitter&style=for-the-badge)](https://twitter.com/ajaypundhir)
