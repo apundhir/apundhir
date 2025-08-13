@@ -39,19 +39,11 @@
 
 I'm an experienced AI Business Leader and Head of Artificial Intelligence, currently leading AI initiatives at Presight. With a strong background in artificial intelligence and business strategy, I help organizations leverage AI technologies to drive innovation and business value.
 
-### 🔭 Current Focus
-- Building and scaling enterprise AI platforms
-- Developing AI strategy and governance frameworks
-- Leading machine learning and data science initiatives
-- Driving AI innovation and digital transformation
+### 🔭 Current Focus and 🌟 Expertise
 
-### 🌟 Expertise
-- AI Strategy Development
-- AI Product Management
-- Machine Learning & Deep Learning
-- Enterprise AI Solutions
-- Data Science Leadership
-- AI Governance & Ethics
+| 🔭 Current Focus | 🌟 Expertise |
+| --- | --- |
+| - Building and scaling enterprise AI platforms<br>- Developing AI strategy and governance frameworks<br>- Leading machine learning and data science initiatives<br>- Driving AI innovation and digital transformation | - AI Strategy Development<br>- AI Product Management<br>- Machine Learning & Deep Learning<br>- Enterprise AI Solutions<br>- Data Science Leadership<br>- AI Governance & Ethics |
 
 ### 📝 Content Creation
 - Regular articles on [AI Exponent](https://aiexponent.com/)
