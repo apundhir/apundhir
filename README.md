@@ -34,9 +34,6 @@
 - Board briefings, AI strategy reviews, due diligence, and operating model design
 - Contact: [LinkedIn](https://linkedin.com/in/ajaypundhir) | [Website](https://aiexponent.com)
 
-### 📰 Latest from the blog
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ### About Me
 
@@ -82,9 +79,5 @@ I'm an experienced AI Business Leader and Head of Artificial Intelligence, curre
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apundhir&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apundhir&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apundhir&theme=radical)
 
 </div>
