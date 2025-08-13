@@ -8,9 +8,15 @@
 
 
 ### 📈 Impact highlights
-- Reduced model time-to-deployment by 70% via enterprise AI platform adoption
-- Delivered $XM annualized value through AI-driven optimization and automation
-- Established Responsible AI governance across the lifecycle (policy, audit, oversight)
+<img src="assets/separator.svg" alt="" width="100%" />
+ 
+✅ Reduced model time-to-deployment by 70% via enterprise AI platform adoption
+
+✅ Delivered $XM annualized value through AI-driven optimization and automation
+
+✅ Established Responsible AI governance across the lifecycle (policy, audit, oversight)
+ 
+<img src="assets/separator.svg" alt="" width="100%" />
 
 ### 🌟 Featured insights
 - The Governance Playbook: From Principles to Practice — practical org design and RAI rollout [Read »](https://aiexponent.com/blog/)
@@ -19,9 +25,15 @@
 - HIPAA and AI: A Strategic Guide to Healthcare Compliance [Read »](https://aiexponent.com/blog/)
 
 ### 🧩 Case studies
-- Enterprise AI platform at scale — standardized MLOps, Responsible AI controls, and time-to-deployment cut by 70%. [Overview »](https://aiexponent.com/blog/)
-- GenAI in Finance — prioritized high-ROI use cases with risk controls and measurable business outcomes. [Overview »](https://aiexponent.com/blog/)
-- Healthcare AI compliance — HIPAA-aligned pipelines, monitoring, and audit readiness. [Overview »](https://aiexponent.com/blog/)
+<img src="assets/separator.svg" alt="" width="100%" />
+
+✅ Enterprise AI platform at scale — standardized MLOps, Responsible AI controls, and time-to-deployment cut by 70%. [Overview »](https://aiexponent.com/blog/)
+
+✅ GenAI in Finance — prioritized high-ROI use cases with risk controls and measurable business outcomes. [Overview »](https://aiexponent.com/blog/)
+
+✅ Healthcare AI compliance — HIPAA-aligned pipelines, monitoring, and audit readiness. [Overview »](https://aiexponent.com/blog/)
+
+<img src="assets/separator.svg" alt="" width="100%" />
 
 ### 🗓️ Events
 - AI Elevate: From Readiness to Exponential Growth — upcoming session [Details »](https://aiexponent.com/blog/)
