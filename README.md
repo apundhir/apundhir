@@ -25,6 +25,11 @@
 - Top 10 Generative AI Use Cases Transforming Finance [Read »](https://aiexponent.com/blog/)
 - HIPAA and AI: A Strategic Guide to Healthcare Compliance [Read »](https://aiexponent.com/blog/)
 
+### 🧩 Case studies
+- Enterprise AI platform at scale — standardized MLOps, Responsible AI controls, and time-to-deployment cut by 70%. [Overview »](https://aiexponent.com/blog/)
+- GenAI in Finance — prioritized high-ROI use cases with risk controls and measurable business outcomes. [Overview »](https://aiexponent.com/blog/)
+- Healthcare AI compliance — HIPAA-aligned pipelines, monitoring, and audit readiness. [Overview »](https://aiexponent.com/blog/)
+
 ### 🗓️ Events
 - AI Elevate: From Readiness to Exponential Growth — upcoming session [Details »](https://aiexponent.com/blog/)
 
