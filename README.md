@@ -41,9 +41,13 @@ I'm an experienced AI Business Leader and Head of Artificial Intelligence, curre
 
 ### 🔭 Current Focus and 🌟 Expertise
 
+<img src="assets/separator.svg" alt="" width="100%" />
+
 | ![Current Focus](https://img.shields.io/badge/Current%20Focus-009292?style=for-the-badge&labelColor=004141&logo=target&logoColor=white) | ![Expertise](https://img.shields.io/badge/Expertise-009292?style=for-the-badge&labelColor=004141&logo=star&logoColor=white) |
 | --- | --- |
-| - Building and scaling enterprise AI platforms<br>- Developing AI strategy and governance frameworks<br>- Leading machine learning and data science initiatives<br>- Driving AI innovation and digital transformation | - AI Strategy Development<br>- AI Product Management<br>- Machine Learning & Deep Learning<br>- Enterprise AI Solutions<br>- Data Science Leadership<br>- AI Governance & Ethics |
+| ✅ Building and scaling enterprise AI platforms<br>✅ Developing AI strategy and governance frameworks<br>✅ Leading machine learning and data science initiatives<br>✅ Driving AI innovation and digital transformation | ✅ AI Strategy Development<br>✅ AI Product Management<br>✅ Machine Learning & Deep Learning<br>✅ Enterprise AI Solutions<br>✅ Data Science Leadership<br>✅ AI Governance & Ethics |
+
+<img src="assets/separator.svg" alt="" width="100%" />
 
 ### 📝 Content Creation
 - Regular articles on [AI Exponent](https://aiexponent.com/)
