@@ -11,6 +11,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://aiexponent.com/feed/"
+          # Use r.jina.ai as a proxy to work around 403 errors from the origin
+          feed_list: "https://r.jina.ai/https://aiexponent.com/feed/"
           max_post_count: 5
 
