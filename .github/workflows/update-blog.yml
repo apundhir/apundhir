@@ -19,4 +19,3 @@ jobs:
           readme_path: "./README.md"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           comment_tag_name: "BLOG-POST-LIST"
-
