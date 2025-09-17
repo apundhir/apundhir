@@ -15,6 +15,9 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
+      - name: Ensure main branch is checked out
+        run: |
+          git checkout -B main origin/main
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://aiexponent.com/feed/"
