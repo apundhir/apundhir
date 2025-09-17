@@ -4,6 +4,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     runs-on: ubuntu-latest
@@ -13,4 +16,7 @@ jobs:
         with:
           feed_list: "https://aiexponent.com/feed/"
           max_post_count: 5
+          readme_path: "./README.md"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "BLOG-POST-LIST"
 
