@@ -53,6 +53,11 @@ I'm an experienced AI Business Leader and Head of Artificial Intelligence, curre
 
 ### 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Real Cost of AI Isn’t Ethics, “It’s Rework”](https://aiexponent.com/the-real-cost-of-ai-isnt-ethics-its-rework/)
+- [Open Source AI: The Ultimate Risk &amp; Reward Guide](https://aiexponent.com/open-source-ai-the-ultimate-risk-reward-guide/)
+- [The RAG Renaissance: Engineering Trust in a Post-Hype AI World](https://aiexponent.com/the-rag-renaissance-engineering-trust-in-a-post-hype-ai-world/)
+- [The Complete Enterprise Guide to RAG Evaluation and Benchmarking](https://aiexponent.com/the-complete-enterprise-guide-to-rag-evaluation-and-benchmarking/)
+- [Top 10 Generative AI Use Cases Transforming Finance: A Strategic Guide for Business Leaders](https://aiexponent.com/top-10-generative-ai-use-cases-transforming-finance-a-strategic-guide-for-business-leaders/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔭 Current Focus and 🌟 Expertise
