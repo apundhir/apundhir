@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Ajay Banner.jpg" alt="AiExponent — Ajay Pundhir" width="100%" />
+  <img src="assets/Github Banner.jpg" alt="AiExponent — Ajay Pundhir" width="100%" />
 
   <br />
 
