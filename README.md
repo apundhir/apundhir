@@ -1,16 +1,24 @@
-# Ajay Pundhir
-<img src="assets/Github Banner.jpg" alt="AiExponent — Ajay Pundhir" width="100%" />
-
 <div align="center">
+  <img src="assets/Ajay Banner.jpg" alt="AiExponent — Ajay Pundhir" width="100%" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=apundhir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/apundhir)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ajaypundhir?logo=twitter&style=for-the-badge)](https://twitter.com/ajaypundhir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ajaypundhir)
-[![Website](https://img.shields.io/badge/Website-Visit-009292?style=for-the-badge&logo=firefox&logoColor=white)](https://aiexponent.com)
+  <br />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Head+of+AI+%40+Presight;Enterprise+AI+Strategist;MLOps+%26+Governance+Leader;Building+Scalable+AI+Systems" alt="Typing SVG" />
+  </a>
+
+  <br />
+
+  [![Profile Views](https://komarev.com/ghpvc/?username=apundhir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/apundhir)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/ajaypundhir?logo=twitter&style=for-the-badge)](https://twitter.com/ajaypundhir)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ajaypundhir)
+  [![Website](https://img.shields.io/badge/Website-Visit-009292?style=for-the-badge&logo=firefox&logoColor=white)](https://aiexponent.com)
 
 </div>
 
-<details open>
+<br />
+
+<details>
 <summary><strong>🔗 Quick Navigation</strong></summary>
 
 - [Impact Highlights](#-impact-highlights)
@@ -18,8 +26,7 @@
 - [Events & Advisory](#-events--advisory)
 - [About & Blog](#about-me)
 - [Focus & Expertise](#-current-focus-and--expertise)
-- [Create & Connect](#-content-creation)
-- [Tech & Stats](#-tech-stack)
+- [Tech Stack](#-tech-stack)
 
 </details>
 
@@ -29,9 +36,9 @@
 
 <table>
   <tr>
-    <td>✅ Reduced model time-to-deployment by 70% via enterprise AI platform adoption</td>
-    <td>✅ Delivered $XM annualized value through AI-driven optimization and automation</td>
-    <td>✅ Established Responsible AI governance across the lifecycle (policy, audit, oversight)</td>
+    <td width="33%">✅ Reduced model time-to-deployment by 70% via enterprise AI platform adoption</td>
+    <td width="33%">✅ Delivered $XM annualized value through AI-driven optimization and automation</td>
+    <td width="33%">✅ Established Responsible AI governance across the lifecycle (policy, audit, oversight)</td>
   </tr>
 </table>
 
@@ -41,29 +48,23 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <th width="50%">Featured Insights</th>
-    <th width="50%">Case Studies</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>The Governance Playbook: From Principles to Practice — practical org design and RAI rollout <a href="https://aiexponent.com/blog/">Read »</a></li>
-        <li>The Complete Enterprise Guide to RAG Evaluation and Benchmarking <a href="https://aiexponent.com/blog/">Read »</a></li>
-        <li>Top 10 Generative AI Use Cases Transforming Finance <a href="https://aiexponent.com/blog/">Read »</a></li>
-        <li>HIPAA and AI: A Strategic Guide to Healthcare Compliance <a href="https://aiexponent.com/blog/">Read »</a></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Enterprise AI platform at scale — standardized MLOps, Responsible AI controls, and time-to-deployment cut by 70%. <a href="https://aiexponent.com/blog/">Overview »</a></li>
-        <li>GenAI in Finance — prioritized high-ROI use cases with risk controls and measurable business outcomes. <a href="https://aiexponent.com/blog/">Overview »</a></li>
-        <li>Healthcare AI compliance — HIPAA-aligned pipelines, monitoring, and audit readiness. <a href="https://aiexponent.com/blog/">Overview »</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Featured Insights | Case Studies |
+| :--- | :--- |
+| • The Governance Playbook: From Principles to Practice — practical org design and RAI rollout [Read »](https://aiexponent.com/blog/)<br>• The Complete Enterprise Guide to RAG Evaluation and Benchmarking [Read »](https://aiexponent.com/blog/)<br>• Top 10 Generative AI Use Cases Transforming Finance [Read »](https://aiexponent.com/blog/)<br>• HIPAA and AI: A Strategic Guide to Healthcare Compliance [Read »](https://aiexponent.com/blog/) | • **Enterprise AI platform at scale** — standardized MLOps, Responsible AI controls, and time-to-deployment cut by 70%. [Overview »](https://aiexponent.com/blog/)<br>• **GenAI in Finance** — prioritized high-ROI use cases with risk controls and measurable business outcomes. [Overview »](https://aiexponent.com/blog/)<br>• **Healthcare AI compliance** — HIPAA-aligned pipelines, monitoring, and audit readiness. [Overview »](https://aiexponent.com/blog/) |
+
+</div>
+
+
+
+<img src="assets/separator.svg" alt="" width="100%" />
+
+### 💻 Tech Stack
+
+<div align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,gcp,aws,azure,git,linux,bash,vscode&perline=6" />
+  </a>
 
 </div>
 
@@ -71,48 +72,17 @@
 
 ### 🗓️ Events & 🎤 Speaking
 
-<table>
-  <tr>
-    <th>Upcoming</th>
-    <th>Speaking & Media</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>AI Elevate: From Readiness to Exponential Growth — upcoming session <a href="https://aiexponent.com/blog/">Details »</a></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Topics: Enterprise AI strategy, RAG evaluation, Responsible AI governance, MLOps at scale</li>
-        <li>Invite me to speak or collaborate: <a href="https://linkedin.com/in/ajaypundhir">LinkedIn</a> | <a href="https://aiexponent.com">Website</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Upcoming | Speaking & Media |
+| :--- | :--- |
+| • AI Elevate: From Readiness to Exponential Growth — upcoming session [Details »](https://aiexponent.com/blog/) | • Topics: Enterprise AI strategy, RAG evaluation, Responsible AI governance, MLOps at scale<br>• Invite me to speak: [LinkedIn](https://linkedin.com/in/ajaypundhir) \| [Website](https://aiexponent.com) |
 
 <img src="assets/separator.svg" alt="" width="100%" />
 
-### 🤝 Advisory & Availability
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>Board briefings, AI strategy reviews, due diligence, and operating model design</li>
-        <li>Contact: <a href="https://linkedin.com/in/ajaypundhir">LinkedIn</a> | <a href="https://aiexponent.com">Website</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<img src="assets/separator.svg" alt="" width="100%" />
-
-### About Me
+### About Me & Content
 
 I'm an experienced AI Business Leader and Head of Artificial Intelligence, currently leading AI initiatives at Presight. With a strong background in artificial intelligence and business strategy, I help organizations leverage AI technologies to drive innovation and business value.
 
-### 📰 Recent Blog Posts
+#### 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Real Cost of AI Isn’t Ethics, “It’s Rework”](https://aiexponent.com/the-real-cost-of-ai-isnt-ethics-its-rework/)
 - [Open Source AI: The Ultimate Risk &amp; Reward Guide](https://aiexponent.com/open-source-ai-the-ultimate-risk-reward-guide/)
@@ -121,72 +91,14 @@ I'm an experienced AI Business Leader and Head of Artificial Intelligence, curre
 - [Top 10 Generative AI Use Cases Transforming Finance: A Strategic Guide for Business Leaders](https://aiexponent.com/top-10-generative-ai-use-cases-transforming-finance-a-strategic-guide-for-business-leaders/)
 <!-- BLOG-POST-LIST:END -->
 
-<img src="assets/separator.svg" alt="" width="100%" />
-
-### 🔭 Current Focus and 🌟 Expertise
-
-<table>
-  <tr>
-    <th>Current Focus</th>
-    <th>Expertise</th>
-  </tr>
-  <tr>
-    <td>
-      ✅ Building and scaling enterprise AI platforms<br>
-      ✅ Developing AI strategy and governance frameworks<br>
-      ✅ Leading machine learning and data science initiatives<br>
-      ✅ Driving AI innovation and digital transformation
-    </td>
-    <td>
-      ✅ AI Strategy Development<br>
-      ✅ AI Product Management<br>
-      ✅ Machine Learning & Deep Learning<br>
-      ✅ Enterprise AI Solutions<br>
-      ✅ Data Science Leadership<br>
-      ✅ AI Governance & Ethics
-    </td>
-  </tr>
-</table>
-
-<img src="assets/separator.svg" alt="" width="100%" />
-
-### 📝 Content Creation
-
-<ul>
-  <li>Regular articles on <a href="https://aiexponent.com/">AI Exponent</a></li>
-  <li>Technical insights and industry trends</li>
-  <li>AI leadership perspectives</li>
-</ul>
-
-### 🤝 Let's Connect
-
 <div align="center">
 
-| [Twitter](https://twitter.com/ajaypundhir) | [LinkedIn](https://linkedin.com/in/ajaypundhir) | [Kaggle](https://kaggle.com/apundhir) | [Medium](https://medium.com/@ajaypundhir) | [YouTube](https://www.youtube.com/@aiexponent) | [Blog RSS Feed](https://aiexponent.com/feed/) |
+<h3>🤝 Let's Connect</h3>
 
-</div>
-
-<img src="assets/separator.svg" alt="" width="100%" />
-
-### 💻 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-orange?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-red?style=flat&logo=pytorch)
-![Docker](https://img.shields.io/badge/Docker-Proficient-blue?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Proficient-blue?style=flat&logo=kubernetes)
-![MLOps](https://img.shields.io/badge/MLOps-Expert-green?style=flat)
-
-</div>
-
-<img src="assets/separator.svg" alt="" width="100%" />
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apundhir&show_icons=true&theme=radical)
+<a href="https://twitter.com/ajaypundhir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ajaypundhir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@ajaypundhir"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.youtube.com/@aiexponent"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://aiexponent.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 
 </div>
