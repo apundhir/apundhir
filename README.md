@@ -1,131 +1,97 @@
-<div align="center">
-  <img src="assets/github-banner.jpg" alt="Ajay Pundhir — Enterprise AI Strategy, MLOps, Responsible AI Governance" width="100%" />
+# Ajay Pundhir
 
-  <br />
+**Global AI Strategist | Head of AI at Presight (G42) | Founder, AiExponent**
 
-  <p><strong>Head of AI at Presight</strong> · Enterprise AI Strategy · MLOps · Responsible AI Governance</p>
+Global AI strategist and enterprise leader at the forefront of the autonomous era. I orchestrate the delivery of large-scale, industrial-grade AI platforms at Presight (G42), transforming breakthrough research into sovereign-scale solutions — with a dual commitment to technical precision and institutional integrity, particularly in the operationalization of Responsible and Agentic AI.
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Head+of+AI+%40+Presight;Enterprise+AI+Strategist;MLOps+%26+Governance+Leader;Building+Scalable+AI+Systems" alt="Head of AI at Presight, Enterprise AI Strategist, MLOps and Governance Leader" />
-  </a>
 
-  <br />
+As Founder of AiExponent, I translate nearly two decades of leadership into high-stakes strategic counsel — Board and Executive Advisory on AI governance, confidential Leadership Coaching for C-suite executives, and founder mentorship through Stanford SEED and LISA programs.
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=apundhir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/apundhir)
-  [![X Follow](https://img.shields.io/twitter/follow/ajaypundhir?logo=x&style=for-the-badge&label=Follow)](https://x.com/ajaypundhir)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ajaypundhir)
-  [![Website](https://img.shields.io/badge/Website-Visit-009292?style=for-the-badge&logo=firefox&logoColor=white)](https://aiexponent.com)
 
-</div>
+**Credentials:** IEEE Senior Member · HBS Advisory Council · MIT Technology Review Committee · Forbes Technology Council · Senior Executive AI Think Tank · Stanford SEED & LISA Mentor · IAPP AIGP Certified
 
-<br />
+🔭 **Currently exploring:** Agentic AI guardrails & safety · AI risk classification across regulatory contexts · 'Cognitive capital' as a measurable organizational asset
 
-<details>
-<summary><strong>Quick Navigation</strong></summary>
+---
 
-- [Impact Highlights](#-impact-highlights)
-- [Insights & Case Studies](#-insights--case-studies)
-- [Tech Stack](#-tech-stack)
-- [Events & Speaking](#-events--speaking)
-- [About Me](#about-me)
+## 🔬 Open Source & Frameworks
 
-</details>
+| Project | What It Solves | ⭐ |
+|---------|---------------|----|
+| [rag-benchmarking](https://github.com/apundhir/rag-benchmarking) | Standardized evaluation of RAG pipelines — relevance, faithfulness, latency |  |
+| [advanced-rag-knowledge-engine](https://github.com/apundhir/advanced_rag_knowledge_engine) | Production RAG with knowledge routing, guardrails & observability |  |
+| [license-compliance-checker](https://github.com/apundhir/license-compliance-checker) | AI-era license scanning — RAIL, Llama, dataset licenses, SPDX |  |
+| [agentic-document-analyser](https://github.com/apundhir/agentic_document_analyser) | High-throughput document intelligence — Qwen2-VL + FastAPI |  |
+| [ai-roi-calculator](https://github.com/apundhir/ai-roi-calculator) | Quantify AI initiative business impact for CXO decision-making |  |
+| [ai-skill-planner](https://github.com/apundhir/ai_skill_planner) | Map AI capabilities, identify gaps, generate upskilling roadmaps |  |
 
-<img src="assets/separator.svg" alt="" width="100%" />
 
-### 📈 Impact Highlights
+---
 
-<table>
-  <tr>
-    <td width="33%">✅ Reduced model time-to-deployment by 70% via enterprise AI platform adoption</td>
-    <td width="33%">✅ Delivered multi-million-dollar annualized value through AI-driven optimization and automation</td>
-    <td width="33%">✅ Established Responsible AI governance across the lifecycle (policy, audit, oversight)</td>
-  </tr>
-</table>
+## 📊 Impact
 
-<img src="assets/separator.svg" alt="" width="100%" />
+- **70%** — reduction in enterprise model time-to-deployment through standardized AI platform
+- **Multi-million $** — annualized value delivered through AI-driven optimization and automation
+- **Full-lifecycle** — Responsible AI governance operationalized across policy, audit, and oversight
 
-### 🌟 Insights & Case Studies
 
-<div align="center">
+---
 
-| Featured Insights | Case Studies |
-| :--- | :--- |
-| • The Governance Playbook: From Principles to Practice — practical org design and RAI rollout [Read »](https://aiexponent.com/the-real-cost-of-ai-isnt-ethics-its-rework/)<br>• The Complete Enterprise Guide to RAG Evaluation and Benchmarking [Read »](https://aiexponent.com/the-complete-enterprise-guide-to-rag-evaluation-and-benchmarking/)<br>• Top 10 Generative AI Use Cases Transforming Finance [Read »](https://aiexponent.com/top-10-generative-ai-use-cases-transforming-finance-a-strategic-guide-for-business-leaders/)<br>• HIPAA and AI: A Strategic Guide to Healthcare Compliance [Read »](https://aiexponent.com/blog/) | • **Enterprise AI platform at scale** — standardized MLOps, Responsible AI controls, and time-to-deployment cut by 70%. [Overview »](https://aiexponent.com/blog/)<br>• **GenAI in Finance** — prioritized high-ROI use cases with risk controls and measurable business outcomes. [Overview »](https://aiexponent.com/top-10-generative-ai-use-cases-transforming-finance-a-strategic-guide-for-business-leaders/)<br>• **Healthcare AI compliance** — HIPAA-aligned pipelines, monitoring, and audit readiness. [Overview »](https://aiexponent.com/blog/) |
+## ✏️ Latest Writing
 
-</div>
+<!-- BLOG_POSTS_START -->
+- [The Hidden Tax on AI Speed](https://aiexponent.com/the-hidden-tax-on-ai-speed/) · *AiExponent*
+- [AiExponent: 2 Minutes on What’s Next in AI](https://aiexponent.com/aiexponent-2-minutes-on-whats-next-in-ai/) · *AiExponent*
+- [The Real Cost of AI Isn’t Ethics, “It’s Rework”](https://aiexponent.com/the-real-cost-of-ai-isnt-ethics-its-rework/) · *AiExponent*
+- [Open Source AI: The Ultimate Risk & Reward Guide](https://aiexponent.com/open-source-ai-the-ultimate-risk-reward-guide/) · *AiExponent*
+- [The RAG Renaissance: Engineering Trust in a Post-Hype AI World](https://aiexponent.com/the-rag-renaissance-engineering-trust-in-a-post-hype-ai-world/) · *AiExponent*
+- [Strategy vs. Plan: How To Achieve The Career Of Your Dreams](https://medium.com/analytics-vidhya/strategy-vs-plan-how-to-achieve-the-career-of-your-dreams-27be6955d201?source=rss-d5c5b0642487------2) · *Medium*
+- [Data Ethics: Navigating the Moral Landscape in the World of AI](https://medium.com/analytics-vidhya/data-ethics-navigating-the-moral-landscape-of-data-science-1ba47a9584b3?source=rss-d5c5b0642487------2) · *Medium*
 
-<img src="assets/separator.svg" alt="" width="100%" />
+<!-- BLOG_POSTS_END -->
 
-### 💻 Tech Stack
 
-<div align="center">
+### Featured Publications
 
-**Languages & ML Frameworks**
+- **AI 2026: Major Industry and Cultural Shifts (and How to Prepare)** — *Senior Executive AI Think Tank* (Jan 2026) [Read →](https://seniorexecutive.com/ai-reshaping-culture-work-2026/)
+  > "We'll see 'cognitive capital' emerge as a measurable asset, where uniquely human capabilities like ethical reasoning, creative synthesis and stakeholder empathy become premium competencies no algorithm can replicate."
+- **Why Smaller, Task-Specific Language Models Are the Smarter Choice** — *Datacentre Dynamics*
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="Python, TensorFlow, PyTorch" />
-</a>
 
-**Cloud & Infrastructure**
+---
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,docker,kubernetes" alt="GCP, AWS, Azure, Docker, Kubernetes" />
-</a>
+## 🤝 Advisory & Speaking
 
-**DevOps & Tools**
+AiExponent is an elite strategic advisory firm dedicated to catalyzing the transition from generative experimentation to agentic AI reality.
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,linux,bash,vscode" alt="Git, Linux, Bash, VS Code" />
-</a>
 
-</div>
+**For Organizations & Leaders:** Board & Executive Advisory · Leadership Coaching · Speaking Engagements
 
-<img src="assets/separator.svg" alt="" width="100%" />
+**For Individuals & Founders:** AI Startup Mentorship · AI Mentoring for Professionals · AI Mentoring for Students (pro bono)
 
-### 🎤 Events & Speaking
+**Topics:** Enterprise AI Strategy & Sovereign-Scale Platforms · Responsible & Agentic AI — Operationalization · AI Governance, Risk Classification & Policy · From Generative Experimentation to Agentic Reality · Cognitive Capital — Valuing Human Judgment in the AI Era
 
-| Upcoming | Speaking & Media |
-| :--- | :--- |
-| • AI Elevate: From Readiness to Exponential Growth — upcoming session [Details »](https://aiexponent.com/blog/) | • Topics: Enterprise AI strategy, RAG evaluation, Responsible AI governance, MLOps at scale<br>• Invite me to speak: [LinkedIn](https://linkedin.com/in/ajaypundhir) \| [Website](https://aiexponent.com) |
 
-<img src="assets/separator.svg" alt="" width="100%" />
+### Upcoming
 
-### About Me
+- **Me2We 2026 — Stanford Graduate School of Business** (March 2026) — *Leading Through Obsolescence*
 
-I lead AI strategy and delivery at **Presight**, where I build enterprise-grade AI platforms for government and financial-services clients across the Middle East. My work spans the full AI lifecycle — from identifying high-ROI use cases and architecting MLOps pipelines to establishing Responsible AI governance frameworks that satisfy regulatory scrutiny. I write about what I learn at [aiexponent.com](https://aiexponent.com).
 
-#### 📰 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [The Real Cost of AI Isn't Ethics, "It's Rework"](https://aiexponent.com/the-real-cost-of-ai-isnt-ethics-its-rework/)
-- [Open Source AI: The Ultimate Risk &amp; Reward Guide](https://aiexponent.com/open-source-ai-the-ultimate-risk-reward-guide/)
-- [The RAG Renaissance: Engineering Trust in a Post-Hype AI World](https://aiexponent.com/the-rag-renaissance-engineering-trust-in-a-post-hype-ai-world/)
-- [The Complete Enterprise Guide to RAG Evaluation and Benchmarking](https://aiexponent.com/the-complete-enterprise-guide-to-rag-evaluation-and-benchmarking/)
-- [Top 10 Generative AI Use Cases Transforming Finance: A Strategic Guide for Business Leaders](https://aiexponent.com/top-10-generative-ai-use-cases-transforming-finance-a-strategic-guide-for-business-leaders/)
-<!-- BLOG-POST-LIST:END -->
 
-<img src="assets/separator.svg" alt="" width="100%" />
+---
 
-<div align="center">
+## 🤝 Connect
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apundhir/apundhir/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apundhir/apundhir/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution graph snake animation" src="https://raw.githubusercontent.com/apundhir/apundhir/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+Translating AI ambition into tangible reality. Available for board advisory, AI strategy reviews, keynote speaking, executive coaching, and due diligence.
 
-</div>
 
-<img src="assets/separator.svg" alt="" width="100%" />
+[LinkedIn](https://linkedin.com/in/ajaypundhir) · [AiExponent](https://aiexponent.com) · [Forbes Tech Council](https://councils.forbes.com/profile/Ajay-Pundhir-Global-AI-Strategist-%7C-Head-AI-G42-Founder-AiExponent-Presight/c10c1e97-df45-47b5-94bc-180b894b9d89) · [Senior Executive](https://seniorexecutive.com/profile/Ajay-Pundhir-Global-AI-Strategist-%7C-Director-AI-G42-Founder-AiExponent-AiExponent/011aced3-8f79-47f3-be63-ac551d45452f) · [X/Twitter](https://twitter.com/ajaypundhir)
 
-<div align="center">
+---
 
-<h3>Let's Connect</h3>
+> "We don't merely decode the language of numbers. We transform data into wisdom, and curiosity into discovery. Data is the compass that guides us, but it is our human curiosity that sails the ship. Lead with questions, follow with insights."
 
-<a href="https://x.com/ajaypundhir"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-<a href="https://linkedin.com/in/ajaypundhir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://medium.com/@ajaypundhir"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://www.youtube.com/@aiexponent"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://aiexponent.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="AiExponent Website" /></a>
 
-</div>
+
+<sub>🔄 Profile auto-updated on February 07, 2026 at 08:13 PM GST · Powered by [GitHub Actions](https://github.com/apundhir/apundhir/actions)</sub>
+
