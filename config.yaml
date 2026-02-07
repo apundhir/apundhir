@@ -94,14 +94,9 @@ featured_repos:
 rss_feeds:
   aiexponent:
     url: "https://aiexponent.com/feed/"
-    max_items: 5
+    max_items: 7
     label: "AiExponent"
     priority: 1
-  medium:
-    url: "https://medium.com/feed/@ajaypundhir"
-    max_items: 3
-    label: "Medium"
-    priority: 2
 
 # --- PUBLICATIONS (manual — Forbes, Senior Executive, Datacentre Dynamics, etc.) ---
 publications:

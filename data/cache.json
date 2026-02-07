@@ -36,22 +36,7 @@
       "summary": "<p>The surge of private investment in generative AI necessitates moving beyond simple applications to achieving reliable ROI through automation. Organizations face trust issues due to inaccuracies in "
     }
   ],
-  "blog_medium": [
-    {
-      "title": "Strategy vs. Plan: How To Achieve The Career Of Your Dreams",
-      "url": "https://medium.com/analytics-vidhya/strategy-vs-plan-how-to-achieve-the-career-of-your-dreams-27be6955d201?source=rss-d5c5b0642487------2",
-      "date": "2023-08-05",
-      "source": "Medium",
-      "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*4TxjZk7V8XQWWJFzxpf49A.png\" /><figcaption>Career Strategy</figcaption></figure><p>The hours you spend at work make up a significant "
-    },
-    {
-      "title": "Data Ethics: Navigating the Moral Landscape in the World of AI",
-      "url": "https://medium.com/analytics-vidhya/data-ethics-navigating-the-moral-landscape-of-data-science-1ba47a9584b3?source=rss-d5c5b0642487------2",
-      "date": "2023-07-29",
-      "source": "Medium",
-      "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*_BseEDS8_eYlvWeYRxgWQw.png\" /><figcaption>Data Ethics</figcaption></figure><blockquote>\u201c<strong>In the world of data; power and ethi"
-    }
-  ],
+  "blog_medium": [],
   "scraper_senior_executive": [
     {
       "title": "AI 2026: Major Industry and Cultural Shifts (and How to Prepare)",
@@ -60,5 +45,5 @@
       "source": "Senior Executive AI Think Tank"
     }
   ],
-  "last_successful_fetch": "2026-02-07T20:13:38.765363+04:00"
+  "last_successful_fetch": "2026-02-07T22:04:35.720471+04:00"
 }
