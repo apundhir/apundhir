@@ -1,0 +1,171 @@
+# ============================================================
+# PROFILE README CONFIGURATION — BRAND-ALIGNED v2
+# Edit this file to update your GitHub profile.
+# Auto-fetched content (blog posts, repo stats) updates daily.
+#
+# All messaging here must stay aligned with:
+#     - Forbes Tech Council profile
+#     - Senior Executive AI Think Tank profile
+#     - AiExponent website (aiexponent.com)
+# ============================================================
+
+# --- IDENTITY (matches Forbes/Senior Executive profiles) ---
+name: "Ajay Pundhir"
+title: "Global AI Strategist | Head of AI at Presight (G42) | Founder, AiExponent"
+
+# Tagline: Adapted from Senior Executive bio
+tagline: >
+  Global AI strategist and enterprise leader at the forefront of the autonomous
+  era. I orchestrate the delivery of large-scale, industrial-grade AI platforms at
+  Presight (G42), transforming breakthrough research into sovereign-scale solutions —
+  with a dual commitment to technical precision and institutional integrity,
+  particularly in the operationalization of Responsible and Agentic AI.
+
+# Mission: Consistent across all platforms
+mission_statement: >
+  As Founder of AiExponent, I translate nearly two decades of leadership into
+  high-stakes strategic counsel — Board and Executive Advisory on AI governance,
+  confidential Leadership Coaching for C-suite executives, and founder mentorship
+  through Stanford SEED and LISA programs.
+
+# Philosophy pillars (from AiExponent About Me page)
+philosophy:
+  - pillar: "Architect of Transformation"
+    description: "Designing resilient, future-ready organizations by weaving AI responsibly into business strategy"
+  - pillar: "Champion of People"
+    description: "Human-centric AI, psychological safety, ethical frameworks that empower teams"
+  - pillar: "Pragmatic Visionary"
+    description: "Ambitious vision for AI's potential meets practical execution for tangible outcomes"
+
+# --- CREDENTIALS (matches AiExponent credentials section) ---
+credentials:
+  - "IEEE Senior Member"
+  - "HBS Advisory Council"
+  - "MIT Technology Review Committee"
+  - "Forbes Technology Council"
+  - "Senior Executive AI Think Tank"
+  - "Stanford SEED & LISA Mentor"
+  - "IAPP AIGP Certified"
+
+# --- CURRENTLY EXPLORING (rotate quarterly) ---
+currently_exploring:
+  - "Agentic AI guardrails & safety"
+  - "AI risk classification across regulatory contexts"
+  - "'Cognitive capital' as a measurable organizational asset"
+
+# --- LINKS (all verified platforms) ---
+links:
+  linkedin: "https://linkedin.com/in/ajaypundhir"
+  website: "https://aiexponent.com"
+  twitter: "https://twitter.com/ajaypundhir"
+  instagram: "https://instagram.com/ajaypundhir"
+  forbes: "https://councils.forbes.com/profile/Ajay-Pundhir-Global-AI-Strategist-%7C-Head-AI-G42-Founder-AiExponent-Presight/c10c1e97-df45-47b5-94bc-180b894b9d89"
+  senior_executive: "https://seniorexecutive.com/profile/Ajay-Pundhir-Global-AI-Strategist-%7C-Director-AI-G42-Founder-AiExponent-AiExponent/011aced3-8f79-47f3-be63-ac551d45452f"
+  presight: "https://presight.ai"
+
+# --- IMPACT METRICS (manual — update as needed) ---
+impact:
+  - metric: "70%"
+    description: "reduction in enterprise model time-to-deployment through standardized AI platform"
+  - metric: "Multi-million $"
+    description: "annualized value delivered through AI-driven optimization and automation"
+  - metric: "Full-lifecycle"
+    description: "Responsible AI governance operationalized across policy, audit, and oversight"
+
+# --- FEATURED REPOSITORIES (order = display order on README) ---
+featured_repos:
+  - name: "rag-benchmarking"
+    tagline: "Standardized evaluation of RAG pipelines — relevance, faithfulness, latency"
+  - name: "advanced_rag_knowledge_engine"
+    tagline: "Production RAG with knowledge routing, guardrails & observability"
+    display_name: "advanced-rag-knowledge-engine"
+  - name: "license-compliance-checker"
+    tagline: "AI-era license scanning — RAIL, Llama, dataset licenses, SPDX"
+  - name: "agentic_document_analyser"
+    tagline: "High-throughput document intelligence — Qwen2-VL + FastAPI"
+    display_name: "agentic-document-analyser"
+  - name: "ai-roi-calculator"
+    tagline: "Quantify AI initiative business impact for CXO decision-making"
+  - name: "ai_skill_planner"
+    tagline: "Map AI capabilities, identify gaps, generate upskilling roadmaps"
+    display_name: "ai-skill-planner"
+
+# --- DYNAMIC CONTENT SOURCES ---
+rss_feeds:
+  aiexponent:
+    url: "https://aiexponent.com/feed/"
+    max_items: 5
+    label: "AiExponent"
+    priority: 1
+  medium:
+    url: "https://medium.com/feed/@ajaypundhir"
+    max_items: 3
+    label: "Medium"
+    priority: 2
+
+# --- PUBLICATIONS (manual — Forbes, Senior Executive, Datacentre Dynamics, etc.) ---
+publications:
+  - title: "AI 2026: Major Industry and Cultural Shifts (and How to Prepare)"
+    url: "https://seniorexecutive.com/ai-reshaping-culture-work-2026/"
+    publication: "Senior Executive AI Think Tank"
+    date: "2026-01-20"
+    featured: true
+    quote: "We'll see 'cognitive capital' emerge as a measurable asset, where uniquely human capabilities like ethical reasoning, creative synthesis and stakeholder empathy become premium competencies no algorithm can replicate."
+  - title: "Why Smaller, Task-Specific Language Models Are the Smarter Choice"
+    url: ""
+    publication: "Datacentre Dynamics"
+    date: ""
+    featured: true
+
+# --- SCRAPERS (auto-fetch from external profiles) ---
+scrapers:
+  senior_executive:
+    enabled: true
+    url: "https://seniorexecutive.com/profile/Ajay-Pundhir-Global-AI-Strategist-%7C-Director-AI-G42-Founder-AiExponent-AiExponent/011aced3-8f79-47f3-be63-ac551d45452f"
+    max_items: 5
+    label: "Senior Executive AI Think Tank"
+
+# --- SPEAKING & ADVISORY (matches AiExponent services page) ---
+speaking:
+  for_organizations:
+    - "Board & Executive Advisory"
+    - "Leadership Coaching"
+    - "Speaking Engagements"
+  for_founders:
+    - "AI Startup Mentorship"
+    - "AI Mentoring for Professionals"
+    - "AI Mentoring for Students (pro bono)"
+  topics:
+    - "Enterprise AI Strategy & Sovereign-Scale Platforms"
+    - "Responsible & Agentic AI — Operationalization"
+    - "AI Governance, Risk Classification & Policy"
+    - "From Generative Experimentation to Agentic Reality"
+    - "Cognitive Capital — Valuing Human Judgment in the AI Era"
+  upcoming_events:
+    - name: "Me2We 2026 — Stanford Graduate School of Business"
+      date: "March 2026"
+      topic: "Leading Through Obsolescence"
+
+# --- CONNECT ---
+connect_text: >
+  Translating AI ambition into tangible reality. Available for board advisory,
+  AI strategy reviews, keynote speaking, executive coaching, and due diligence.
+
+# AiExponent tagline (from Senior Executive company bio)
+aiexponent_tagline: >
+  AiExponent is an elite strategic advisory firm dedicated to catalyzing the
+  transition from generative experimentation to agentic AI reality.
+
+# --- QUOTE (from AiExponent website — use as signature element) ---
+signature_quote: >
+  "We don't merely decode the language of numbers. We transform data into wisdom,
+  and curiosity into discovery. Data is the compass that guides us, but it is our
+  human curiosity that sails the ship. Lead with questions, follow with insights."
+
+# --- AUTO-UPDATE SETTINGS ---
+settings:
+  update_frequency: "daily"
+  timezone: "Asia/Dubai"
+  cache_ttl_hours: 24
+  show_last_updated: true
+  show_auto_update_badge: true
