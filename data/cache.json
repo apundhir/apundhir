@@ -22,18 +22,18 @@
       "summary": "<p>For years, \"Responsible AI\" has been a topic for workshops and policy documents. But in the era of generative AI, the real cost of inaction isn't a future risk\u2014it's the immediate, expensive enginee"
     },
     {
+      "title": "Stop Waiting for the Perfect AI Governance Framework. Start With \u201cMVG\u201d",
+      "url": "https://aiexponent.com/ai-governance-framework-minimum-viable-governance/",
+      "date": "2025-08-25",
+      "source": "AiExponent",
+      "summary": "<p>Most AI governance frameworks are designed for the organization you want to become, not the one you are today. This article introduces Minimum Viable Governance (MVG) \u2014 a 90-day on-ramp that gets y"
+    },
+    {
       "title": "Open Source AI: The Ultimate Risk & Reward Guide",
       "url": "https://aiexponent.com/open-source-ai-the-ultimate-risk-reward-guide/",
       "date": "2025-08-17",
       "source": "AiExponent",
       "summary": "<p>The democratization of AI has revolutionized software development and compliance with intellectual property management, leading to a surge in open-source AI models and projects. However, this growt"
-    },
-    {
-      "title": "The RAG Renaissance: Engineering Trust in a Post-Hype AI World",
-      "url": "https://aiexponent.com/the-rag-renaissance-engineering-trust-in-a-post-hype-ai-world/",
-      "date": "2025-08-14",
-      "source": "AiExponent",
-      "summary": "<p>The surge of private investment in generative AI necessitates moving beyond simple applications to achieving reliable ROI through automation. Organizations face trust issues due to inaccuracies in "
     }
   ],
   "blog_medium": [],
@@ -45,5 +45,5 @@
       "source": "Senior Executive AI Think Tank"
     }
   ],
-  "last_successful_fetch": "2026-02-07T22:04:35.720471+04:00"
+  "last_successful_fetch": "2026-04-04T11:14:02.174165+04:00"
 }

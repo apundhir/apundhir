@@ -44,8 +44,8 @@ As Founder of AiExponent, I translate nearly two decades of leadership into high
 - [The Hidden Tax on AI Speed](https://aiexponent.com/the-hidden-tax-on-ai-speed/)
 - [AiExponent: 2 Minutes on What’s Next in AI](https://aiexponent.com/aiexponent-2-minutes-on-whats-next-in-ai/)
 - [The Real Cost of AI Isn’t Ethics, “It’s Rework”](https://aiexponent.com/the-real-cost-of-ai-isnt-ethics-its-rework/)
+- [Stop Waiting for the Perfect AI Governance Framework. Start With “MVG”](https://aiexponent.com/ai-governance-framework-minimum-viable-governance/)
 - [Open Source AI: The Ultimate Risk & Reward Guide](https://aiexponent.com/open-source-ai-the-ultimate-risk-reward-guide/)
-- [The RAG Renaissance: Engineering Trust in a Post-Hype AI World](https://aiexponent.com/the-rag-renaissance-engineering-trust-in-a-post-hype-ai-world/)
 
 <!-- BLOG_POSTS_END -->
 
@@ -92,5 +92,5 @@ Translating AI ambition into tangible reality. Available for board advisory, AI 
 
 
 
-<sub>🔄 Profile auto-updated on February 07, 2026 at 10:04 PM GST · Powered by [GitHub Actions](https://github.com/apundhir/apundhir/actions)</sub>
+<sub>🔄 Profile auto-updated on April 04, 2026 at 11:14 AM GST · Powered by [GitHub Actions](https://github.com/apundhir/apundhir/actions)</sub>
 
