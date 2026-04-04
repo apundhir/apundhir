@@ -1,41 +1,5 @@
 {
-  "blog_aiexponent": [
-    {
-      "title": "The Hidden Tax on AI Speed",
-      "url": "https://aiexponent.com/the-hidden-tax-on-ai-speed/",
-      "date": "2026-01-18",
-      "source": "AiExponent",
-      "summary": "<p>The productivity numbers from AI coding assistants look impressive\u2014until you examine what's accumulating underneath. A 2025 METR study found experienced developers were actually 19% slower with AI "
-    },
-    {
-      "title": "AiExponent: 2 Minutes on What\u2019s Next in AI",
-      "url": "https://aiexponent.com/aiexponent-2-minutes-on-whats-next-in-ai/",
-      "date": "2025-12-21",
-      "source": "AiExponent",
-      "summary": "<p>The gap between AI promises and reality has never been wider. With 95% of AI projects failing to deliver value and 42% of companies abandoning initiatives, 2026 marks a reckoning. This analysis cov"
-    },
-    {
-      "title": "The Real Cost of AI Isn\u2019t Ethics, \u201cIt\u2019s Rework\u201d",
-      "url": "https://aiexponent.com/the-real-cost-of-ai-isnt-ethics-its-rework/",
-      "date": "2025-09-14",
-      "source": "AiExponent",
-      "summary": "<p>For years, \"Responsible AI\" has been a topic for workshops and policy documents. But in the era of generative AI, the real cost of inaction isn't a future risk\u2014it's the immediate, expensive enginee"
-    },
-    {
-      "title": "Stop Waiting for the Perfect AI Governance Framework. Start With \u201cMVG\u201d",
-      "url": "https://aiexponent.com/ai-governance-framework-minimum-viable-governance/",
-      "date": "2025-08-25",
-      "source": "AiExponent",
-      "summary": "<p>Most AI governance frameworks are designed for the organization you want to become, not the one you are today. This article introduces Minimum Viable Governance (MVG) \u2014 a 90-day on-ramp that gets y"
-    },
-    {
-      "title": "Open Source AI: The Ultimate Risk & Reward Guide",
-      "url": "https://aiexponent.com/open-source-ai-the-ultimate-risk-reward-guide/",
-      "date": "2025-08-17",
-      "source": "AiExponent",
-      "summary": "<p>The democratization of AI has revolutionized software development and compliance with intellectual property management, leading to a surge in open-source AI models and projects. However, this growt"
-    }
-  ],
+  "scraper_askajay": [],
   "blog_medium": [],
   "scraper_senior_executive": [
     {
@@ -45,5 +9,5 @@
       "source": "Senior Executive AI Think Tank"
     }
   ],
-  "last_successful_fetch": "2026-04-04T11:14:02.174165+04:00"
+  "last_successful_fetch": "2026-04-04T12:21:13.160131+04:00"
 }
