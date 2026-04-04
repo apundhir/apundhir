@@ -41,8 +41,9 @@ def fetch_blog_posts(config):
     posts = []
     cache = load_cache(CACHE_PATH)
 
+    rss_feeds = config.get("rss_feeds") or {}
     for feed_name, feed_config in sorted(
-        config.get("rss_feeds", {}).items(),
+        rss_feeds.items(),
         key=lambda x: x[1].get("priority", 99)
     ):
         try:
