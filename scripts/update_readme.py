@@ -19,6 +19,7 @@ sys.path.insert(0, str(ROOT))
 from scripts.fetchers.rss_fetcher import fetch_rss_feed
 from scripts.fetchers.github_fetcher import fetch_repo_data
 from scripts.fetchers.seniorexec_scraper import fetch_senior_exec_articles
+from scripts.fetchers.askajay_scraper import fetch_askajay_articles
 from scripts.utils.cache import load_cache, save_cache
 from scripts.utils.logger import setup_logger
 
@@ -89,6 +90,19 @@ def fetch_external_publications(config):
             except Exception as e:
                 logger.warning(f"Senior Executive scraper failed: {e}")
                 articles.extend(cache.get("scraper_senior_executive", []))
+                
+        elif scraper_name == "askajay":
+            try:
+                scraped = fetch_askajay_articles(
+                    profile_url=scraper_config["url"],
+                    max_items=scraper_config.get("max_items", 5),
+                    source_label=scraper_config.get("label", "AskAjay")
+                )
+                articles.extend(scraped)
+                logger.info(f"Scraped {len(scraped)} articles from AskAjay")
+            except Exception as e:
+                logger.warning(f"AskAjay scraper failed: {e}")
+                articles.extend(cache.get("scraper_askajay", []))
 
     return articles
 
@@ -194,7 +208,7 @@ def main():
         logger.info("README.md updated with new content")
 
         save_cache(CACHE_PATH, {
-            "blog_aiexponent": [p for p in blog_posts if p.get("source") == "AiExponent"],
+            "scraper_askajay": [p for p in external_pubs if p.get("source") == "AskAjay"],
             "blog_medium": [p for p in blog_posts if p.get("source") == "Medium"],
             "scraper_senior_executive": external_pubs,
             "last_successful_fetch": datetime.now(dubai_tz).isoformat(),

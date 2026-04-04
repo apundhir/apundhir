@@ -92,11 +92,6 @@ featured_repos:
 
 # --- DYNAMIC CONTENT SOURCES ---
 rss_feeds:
-  aiexponent:
-    url: "https://aiexponent.com/feed/"
-    max_items: 7
-    label: "AiExponent"
-    priority: 1
 
 # --- PUBLICATIONS (manual — Forbes, Senior Executive, Datacentre Dynamics, etc.) ---
 publications:
@@ -112,13 +107,17 @@ publications:
     date: ""
     featured: true
 
-# --- SCRAPERS (auto-fetch from external profiles) ---
 scrapers:
   senior_executive:
     enabled: true
     url: "https://seniorexecutive.com/profile/Ajay-Pundhir-Global-AI-Strategist-%7C-Director-AI-G42-Founder-AiExponent-AiExponent/011aced3-8f79-47f3-be63-ac551d45452f"
     max_items: 5
     label: "Senior Executive AI Think Tank"
+  askajay:
+    enabled: true
+    url: "https://askajay.ai/thinking"
+    max_items: 5
+    label: "AskAjay"
 
 # --- SPEAKING & ADVISORY (matches AiExponent services page) ---
 speaking:
