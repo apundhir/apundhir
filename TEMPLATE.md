@@ -10,7 +10,7 @@
 
 **Credentials:** {{ credentials | join(' · ') }}
 
-[![AskAjay.ai](https://img.shields.io/badge/AskAjay.ai-Visit-0E3A5C?style=flat)]({{ links.askajay }}) [![The Brief](https://img.shields.io/badge/The_Brief-Subscribe-0E3A5C?style=flat)]({{ links.brief }}) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)]({{ links.linkedin }}) [![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)]({{ links.x }})
+[![AskAjay.ai](https://img.shields.io/badge/AskAjay.ai-Visit-0E3A5C?style=flat)]({{ links.askajay }}) [![The Brief](https://img.shields.io/badge/The_Brief-Subscribe-0E3A5C?style=flat)]({{ links.brief }}) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)]({{ links.linkedin }}) [![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)]({{ links.x }}) [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)]({{ links.youtube }})
 
 ---
 

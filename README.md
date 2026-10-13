@@ -10,7 +10,7 @@ I spent fifteen years building AI inside large companies: Nokia, Samsung, Americ
 
 **Credentials:** Forbes Technology Council · IEEE Senior Member · HBR Advisory Council · MIT Technology Review Committee · Stanford LISA mentor · One League Global Mentorship Board
 
-[![AskAjay.ai](https://img.shields.io/badge/AskAjay.ai-Visit-0E3A5C?style=flat)](https://askajay.ai) [![The Brief](https://img.shields.io/badge/The_Brief-Subscribe-0E3A5C?style=flat)](https://askajay.ai/brief) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaypundhir/) [![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)](https://x.com/ajaypundhir)
+[![AskAjay.ai](https://img.shields.io/badge/AskAjay.ai-Visit-0E3A5C?style=flat)](https://askajay.ai) [![The Brief](https://img.shields.io/badge/The_Brief-Subscribe-0E3A5C?style=flat)](https://askajay.ai/brief) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaypundhir/) [![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)](https://x.com/ajaypundhir) [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@askajayai)
 
 ---
 
