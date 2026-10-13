@@ -1,4 +1,4 @@
-[![Ajay Pundhir. Founder, AI Exponent LLC. AI Strategist, Executive Coach, Speaker. I help leaders make AI real.](assets/askajay-github-banner.jpg)](https://askajay.ai)
+[![AskAjay.ai. I help leaders make AI real.](assets/askajay-github-banner.jpg)](https://askajay.ai)
 
 # Ajay Pundhir
 

@@ -1,23 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Ajay Pundhir. Founder, AI Exponent LLC. AI Strategist, Executive Coach, Speaker. I help leaders make AI real. askajay.ai">
-  <!-- AskAjay.ai GitHub profile banner. Colours and type follow the AskAjay
-       personal banner in aiexponent-brand (generate_assets.py). One gold
-       accent only (the rule under the tagline). Render: scripts/render_banner.sh -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="AskAjay.ai. I help leaders make AI real.">
+  <!-- AskAjay.ai GitHub profile banner (option B from the vp-design review,
+       2026-10-13). AskAjay wordmark untouched ("Ask" 400 at 50%, "Ajay" 600,
+       ".ai" gold); the gold in ".ai" is the frame's only accent.
+       Render: scripts/render_banner.sh -->
   <defs>
-    <linearGradient id="heroH" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#0E3A5C"/>
       <stop offset="1" stop-color="#0A0A0A"/>
     </linearGradient>
   </defs>
-  <rect width="1280" height="320" fill="url(#heroH)"/>
-
-  <text x="72" y="88" font-family="'JetBrains Mono', Menlo, monospace" font-size="20" font-weight="500" letter-spacing="0.15em" fill="rgba(250,247,242,0.85)">AJAY PUNDHIR</text>
-  <text x="72" y="142" font-family="'Clash Display', 'Arial Black', sans-serif" font-size="36" font-weight="600" fill="#FAF7F2">Founder, AI Exponent LLC</text>
-  <text x="72" y="188" font-family="'Clash Display', 'Arial Black', sans-serif" font-size="28" font-weight="500" fill="rgba(250,247,242,0.92)">AI Strategist · Executive Coach · Speaker</text>
-  <text x="72" y="248" font-family="'JetBrains Mono', Menlo, monospace" font-size="15" font-weight="500" letter-spacing="0.10em" fill="rgba(250,247,242,0.60)">FORBES TECHNOLOGY COUNCIL · IEEE SENIOR MEMBER</text>
-  <text x="72" y="274" font-family="'JetBrains Mono', Menlo, monospace" font-size="15" font-weight="500" letter-spacing="0.10em" fill="rgba(250,247,242,0.60)">HBR ADVISORY COUNCIL</text>
-
-  <text x="1000" y="138" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-style="italic" font-weight="400" font-size="58" fill="#FAF7F2">I help leaders</text>
-  <text x="1000" y="208" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-style="italic" font-weight="700" font-size="64" fill="#FAF7F2">make AI real.</text>
-  <rect x="910" y="234" width="180" height="3" rx="1.5" fill="#C9A84C"/>
-  <text x="1000" y="278" text-anchor="middle" font-family="'JetBrains Mono', Menlo, monospace" font-size="18" font-weight="500" letter-spacing="0.15em" fill="rgba(250,247,242,0.70)">askajay.ai</text>
+  <rect width="1280" height="320" fill="url(#g)"/>
+  <text x="88" y="88" font-family="'Clash Display', 'Arial Black', sans-serif" font-size="56" letter-spacing="-0.01em"><tspan font-weight="400" fill="#FAF7F2" fill-opacity="0.50">Ask</tspan><tspan font-weight="600" fill="#FAF7F2">Ajay</tspan><tspan font-weight="600" fill="#C9A84C">.ai</tspan></text>
+  <text x="88" y="194" font-family="'Playfair Display', Georgia, serif" font-weight="400" font-size="68" fill="#FAF7F2">I help leaders</text>
+  <text x="88" y="272" font-family="'Playfair Display', Georgia, serif" font-weight="700" font-size="72" fill="#FAF7F2">make AI real.</text>
 </svg>
