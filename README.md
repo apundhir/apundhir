@@ -1,91 +1,83 @@
-![Ajay Pundhir — Global AI Strategist | Head of AI at Presight (G42) | Founder, AiExponent](assets/github-banner.jpg)
+[![Ajay Pundhir. Founder, AI Exponent LLC. AI Strategist, Executive Coach, Speaker. I help leaders make AI real.](assets/askajay-github-banner.jpg)](https://askajay.ai)
 
 # Ajay Pundhir
 
-**Global AI Strategist | Head of AI at Presight (G42) | Founder, AiExponent**
+**Founder, AI Exponent LLC · AI Strategist · Executive Coach · Speaker**
 
-Global AI strategist and enterprise leader at the forefront of the autonomous era. I orchestrate the delivery of large-scale, industrial-grade AI platforms at Presight (G42), transforming breakthrough research into sovereign-scale solutions — with a dual commitment to technical precision and institutional integrity, particularly in the operationalization of Responsible and Agentic AI.
+*I help leaders make AI real.*
 
+I spent fifteen years building AI inside large companies: Nokia, Samsung, American Express and Presight (G42). Today I run AI Exponent LLC full-time. Through AskAjay.ai I advise boards and leadership teams on AI strategy and governance, coach executives, and write about what holds up in production. Through AiExponent.com we build open-source tools that turn EU AI Act duties into evidence a team can check.
 
-As Founder of AiExponent, I translate nearly two decades of leadership into high-stakes strategic counsel — Board and Executive Advisory on AI governance, confidential Leadership Coaching for C-suite executives, and founder mentorship through Stanford SEED and LISA programs.
+**Credentials:** Forbes Technology Council · IEEE Senior Member · HBR Advisory Council · MIT Technology Review Committee · Stanford LISA mentor · One League Global Mentorship Board
 
-
-**Credentials:** IEEE Senior Member · HBS Advisory Council · MIT Technology Review Committee · Forbes Technology Council · Senior Executive AI Think Tank · Stanford SEED & LISA Mentor · IAPP AIGP Certified
-
-🔭 **Currently exploring:** Agentic AI guardrails & safety · AI risk classification across regulatory contexts · 'Cognitive capital' as a measurable organizational asset
+[![AskAjay.ai](https://img.shields.io/badge/AskAjay.ai-Visit-0E3A5C?style=flat)](https://askajay.ai) [![The Brief](https://img.shields.io/badge/The_Brief-Subscribe-0E3A5C?style=flat)](https://askajay.ai/brief) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaypundhir/) [![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)](https://x.com/ajaypundhir) [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@askajayai)
 
 ---
 
-## 🔬 Open Source & Frameworks
+## What I'm working on
 
-| Project | What It Solves |
-|---------|---------------|
-| [rag-benchmarking](https://github.com/apundhir/rag-benchmarking) | Standardized evaluation of RAG pipelines — relevance, faithfulness, latency |
-| [advanced-rag-knowledge-engine](https://github.com/apundhir/advanced_rag_knowledge_engine) | Production RAG with knowledge routing, guardrails & observability |
-| [license-compliance-checker](https://github.com/apundhir/license-compliance-checker) | AI-era license scanning — RAIL, Llama, dataset licenses, SPDX |
-| [agentic-document-analyser](https://github.com/apundhir/agentic_document_analyser) | High-throughput document intelligence — Qwen2-VL + FastAPI |
-| [ai-roi-calculator](https://github.com/apundhir/ai-roi-calculator) | Quantify AI initiative business impact for CXO decision-making |
-| [ai-skill-planner](https://github.com/apundhir/ai_skill_planner) | Map AI capabilities, identify gaps, generate upskilling roadmaps |
+- Measuring AI agents the way you measure a new hire
+- Governance that can actually stop a model, not just a policy on paper
+- What boards should ask before they fund an AI programme
 
+| 15+ | 12+ | 20+ | 2,500+ |
+|:---:|:---:|:---:|:---:|
+| years in AI | organisations advised | keynotes and talks | readers of The Brief |
 
 ---
 
-## 📊 Impact
+## Latest writing
 
-| 70% | Multi-million $ | Full-lifecycle |
-|:---:|:---:|:---:|
-| Reduction in enterprise model time-to-deployment | Annualized value through AI-driven optimization | Responsible AI governance operationalized |
+<!-- LATEST_WRITING_START -->
+- [Agentic AI Transformation Is Not a Program](https://askajay.ai/thinking/agentic-ai-transformation-not-a-program)
+- [Four AI Rule Deadlines Between Now and January 2027](https://askajay.ai/thinking/regulation-note-2026-10)
+- [Promise Arbitrage: Why Nobody Prices an AI Promise Until Engineering Pays It](https://askajay.ai/thinking/promise-arbitrage)
+- [The Evaluation Gap: Why Good Boards Fund Bad AI](https://askajay.ai/thinking/evaluation-gap)
+- [An AI Agent Is a Hire. Measure It Like One.](https://askajay.ai/thinking/agentic-work-unit-ledger)
+<!-- LATEST_WRITING_END -->
 
----
+More at [askajay.ai/thinking](https://askajay.ai/thinking). Every other Tuesday I send [The Brief](https://askajay.ai/brief): one argument, one correction of the week's coverage, one move for Monday.
 
-## ✏️ Latest Writing
+### Published elsewhere
 
-<!-- BLOG_POSTS_START -->
+- [How The AI Adoption Rate Is A Clock](https://www.forbes.com/councils/forbestechcouncil/2026/09/14/how-the-ai-adoption-rate-is-a-clock/) · *Forbes*, Sep 2026
+- [The AI Bubble Won't Burst. It Will Bifurcate.](https://www.forbes.com/councils/forbestechcouncil/2026/03/04/the-ai-bubble-wont-burst-it-will-bifurcate/) · *Forbes*, Mar 2026
+- [Your Resistant Employees Know Why Your AI Adoption Is Failing](https://www.forbes.com/councils/forbestechcouncil/2026/02/05/your-resistant-employees-know-why-your-ai-adoption-is-failing/) · *Forbes*, Feb 2026
+- [AI 2026: Major Industry and Cultural Shifts (and How to Prepare)](https://seniorexecutive.com/ai-reshaping-culture-work-2026/) · *Senior Executive*, Jan 2026
 
-<!-- BLOG_POSTS_END -->
-
-
-### Featured Publications
-
-- **AI 2026: Major Industry and Cultural Shifts (and How to Prepare)** — *Senior Executive AI Think Tank* (Jan 2026) [Read →](https://seniorexecutive.com/ai-reshaping-culture-work-2026/)
-  > "We'll see 'cognitive capital' emerge as a measurable asset, where uniquely human capabilities like ethical reasoning, creative synthesis and stakeholder empathy become premium competencies no algorithm can replicate."
-- **Why Smaller, Task-Specific Language Models Are the Smarter Choice** — *Datacentre Dynamics*
-
-
----
-
-## 🤝 Advisory & Speaking
-
-AiExponent is an elite strategic advisory firm dedicated to catalyzing the transition from generative experimentation to agentic AI reality.
-
-
-**For Organizations & Leaders:** Board & Executive Advisory · Leadership Coaching · Speaking Engagements
-
-**For Individuals & Founders:** AI Startup Mentorship · AI Mentoring for Professionals · AI Mentoring for Students (pro bono)
-
-**Topics:** Enterprise AI Strategy & Sovereign-Scale Platforms · Responsible & Agentic AI — Operationalization · AI Governance, Risk Classification & Policy · From Generative Experimentation to Agentic Reality · Cognitive Capital — Valuing Human Judgment in the AI Era
-
-
-### Upcoming
-
-- **Me2We 2026 — Stanford Graduate School of Business** (March 2026) — *Leading Through Obsolescence*
-
-
+My [Forbes Technology Council profile](https://councils.forbes.com/profile/Ajay-Pundhir-Founder-AskAjay-ai-%7C-Director-AI-Presight-G42-AskAjay-ai/c10c1e97-df45-47b5-94bc-180b894b9d89) has the full list of columns.
 
 ---
 
-## 🤝 Connect
+## Frameworks
 
-Translating AI ambition into tangible reality. Available for board advisory, AI strategy reviews, keynote speaking, executive coaching, and due diligence.
+Minimum Viable AI Governance (MVG) · The Trust Premium · The PRIME Framework · The Liability Ledger · Agentic AI Readiness (A7)
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaypundhir) [![AiExponent](https://img.shields.io/badge/AiExponent-Visit-0D7377?style=flat)](https://aiexponent.com) [![Forbes](https://img.shields.io/badge/Forbes_Tech_Council-Profile-1a1a1a?style=flat)](https://councils.forbes.com/profile/Ajay-Pundhir-Global-AI-Strategist-%7C-Head-AI-G42-Founder-AiExponent-Presight/c10c1e97-df45-47b5-94bc-180b894b9d89) [![Senior Executive](https://img.shields.io/badge/Senior_Executive-Profile-2c3e50?style=flat)](https://seniorexecutive.com/profile/Ajay-Pundhir-Global-AI-Strategist-%7C-Director-AI-G42-Founder-AiExponent-AiExponent/011aced3-8f79-47f3-be63-ac551d45452f) [![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/ajaypundhir)
+Free to use, with worksheets, at [askajay.ai/tools](https://askajay.ai/tools).
 
 ---
 
-> "We don't merely decode the language of numbers. We transform data into wisdom, and curiosity into discovery. Data is the compass that guides us, but it is our human curiosity that sails the ship. Lead with questions, follow with insights."
+## Open source
 
+| Project | What it does |
+|---------|--------------|
+| [LitmusAI](https://github.com/aiexponent/litmusai) | Offline CLI that screens an AI system description against the EU AI Act Article 5 prohibited practices |
+| [RiskForge](https://github.com/aiexponent/riskforge) | Builds an audit-trailed EU AI Act Article 9 risk management file from the command line |
+| [RAG Benchmarking](https://github.com/aiexponent/rag-benchmarking) | Framework-agnostic evaluation harness for RAG and agentic AI systems |
+| [License Compliance Checker](https://github.com/aiexponent/license-compliance-checker) | License and AI model scanner for software dependencies, with SBOM output |
+| [Agentic Document Analyser](https://github.com/aiexponent/agentic-document-analyser) | Turns documents into structured JSON for compliance evidence, using vision-language models |
+| [Advanced RAG Knowledge Engine](https://github.com/apundhir/advanced_rag_knowledge_engine) | RAG and knowledge routing engine with evaluation, guardrails and observability |
+| [30 Days with Agents](https://github.com/apundhir/30_days_with_agents) | Free course that takes you from agent basics to advanced patterns in 30 days |
 
+The first five are built and maintained by [AiExponent](https://aiexponent.com), the product arm of AI Exponent LLC.
 
-<sub>🔄 Profile auto-updated on April 04, 2026 at 12:21 PM GST · Powered by [GitHub Actions](https://github.com/apundhir/apundhir/actions)</sub>
+---
 
+## Work with me
+
+- [Strategic advisory](https://askajay.ai/work/advisory) for boards and C-suites
+- [Agentic transformation](https://askajay.ai/work/agentic-transformation) for teams moving agents into real work
+- [Startup advisory](https://askajay.ai/work/startup-advisory) for AI founders building governance in from day one
+- [Speaking and workshops](https://askajay.ai/work/speaking) for conferences and leadership offsites
+
+The quickest way to reach me is [askajay.ai/connect](https://askajay.ai/connect).

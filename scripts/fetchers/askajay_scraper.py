@@ -1,69 +1,50 @@
-"""Scrape AskAjay.ai profile for published articles."""
+"""Scrape the latest articles from askajay.ai/thinking."""
 
 import requests
-import re
 from bs4 import BeautifulSoup
 from typing import List, Dict
 
+BASE_URL = "https://askajay.ai"
+
+
 def fetch_askajay_articles(
-    profile_url: str = "https://askajay.ai/thinking",
+    profile_url: str = f"{BASE_URL}/thinking",
     max_items: int = 5,
-    source_label: str = "AskAjay"
+    source_label: str = "AskAjay.ai"
 ) -> List[Dict]:
     """
-    Scrape published articles from AskAjay thinking page.
+    Return the newest articles on the thinking page, in page order.
+
+    Each article card is an <a href="/thinking/<slug>"> wrapping an <h2> or
+    <h3> title. Raises on network or parse failure so the caller can fall
+    back to the cache instead of silently publishing an empty list.
     """
     headers = {
         "User-Agent": "Mozilla/5.0 (compatible; GitHub-Profile-Bot/1.0)"
     }
+    response = requests.get(profile_url, headers=headers, timeout=15)
+    response.raise_for_status()
 
-    try:
-        response = requests.get(profile_url, headers=headers, timeout=15)
-        response.raise_for_status()
-        
-        articles = []
-        seen = set()
-        
-        # Method 1: Regex parse the Next.js JSON state
-        # The titles and links are baked into __next_f.push payload
-        matches = re.finditer(r'"href":"(/thinking/[^"]+)",.*?"children":"([^"]+)"', response.text)
-        for match in matches:
-            href = match.group(1)
-            title = match.group(2)
-            
-            if len(title) > 15 and "Latest Thinking" not in title and href not in seen:
-                seen.add(href)
-                articles.append({
-                    "title": title.replace('\\"', '"'),
-                    "url": f"https://askajay.ai{href}",
-                    "date": "",
-                    "source": source_label,
-                })
-                
-            if len(articles) >= max_items:
-                return articles
-                
-        # Method 2: Fallback to BeautifulSoup if JS parsing failed
-        if not articles:
-            soup = BeautifulSoup(response.text, "html.parser")
-            for link in soup.find_all("a"):
-                href = link.get("href", "")
-                if href.startswith("/thinking/") and len(href) > 10:
-                    title_elem = link.find(["h2", "h3"])
-                    title_text = title_elem.get_text(strip=True) if title_elem else link.get_text(strip=True)
-                    
-                    if title_text and len(title_text) > 15 and href not in seen:
-                        seen.add(href)
-                        articles.append({
-                            "title": title_text,
-                            "url": f"https://askajay.ai{href}",
-                            "date": "",
-                            "source": source_label,
-                        })
-                        
-                    if len(articles) >= max_items:
-                        break
+    soup = BeautifulSoup(response.text, "html.parser")
+    articles = []
+    seen = set()
 
-        return articles
-    except Exception as repr_err:
-        return []
+    for link in soup.select('a[href^="/thinking/"]'):
+        href = link.get("href", "").split("#")[0].split("?")[0]
+        title_elem = link.find(["h2", "h3"])
+        if not title_elem or href in seen:
+            continue
+
+        seen.add(href)
+        articles.append({
+            "title": title_elem.get_text(" ", strip=True),
+            "url": f"{BASE_URL}{href}",
+            "source": source_label,
+        })
+        if len(articles) >= max_items:
+            break
+
+    if not articles:
+        raise ValueError(f"No article cards found on {profile_url}")
+
+    return articles

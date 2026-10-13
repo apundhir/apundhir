@@ -2,7 +2,7 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # Daily at 06:00 UTC (10:00 AM UAE)
+    - cron: "0 6 * * *"  # Daily at 06:00 UTC (10:00 Asia/Dubai)
   push:
     branches: [main]
     paths:
@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -38,8 +39,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run update script
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
         run: python scripts/update_readme.py
 
       - name: Commit and push if changed
@@ -50,3 +49,14 @@ jobs:
           git diff --staged --quiet || git commit -m "docs: auto-update profile README [skip ci]"
           git pull --rebase origin main
           git push
+
+      # GitHub disables scheduled workflows after 60 days without repo
+      # activity. Re-enabling both through the API keeps them running even
+      # when the README has nothing new to commit.
+      - name: Keep scheduled workflows enabled
+        if: github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api -X PUT "repos/${{ github.repository }}/actions/workflows/update-readme.yml/enable"
+          gh api -X PUT "repos/${{ github.repository }}/actions/workflows/check-links.yml/enable"
