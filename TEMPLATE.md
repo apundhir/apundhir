@@ -1,89 +1,75 @@
-![{{ name }} — {{ title }}](assets/github-banner.jpg)
+[![{{ banner.alt }}]({{ banner.path }})]({{ links.askajay }})
 
 # {{ name }}
 
 **{{ title }}**
 
-{{ tagline }}
+*{{ tagline }}*
 
-{{ mission_statement }}
+{{ intro | trim }}
 
 **Credentials:** {{ credentials | join(' · ') }}
 
-🔭 **Currently exploring:** {{ currently_exploring | join(' · ') }}
+[![AskAjay.ai](https://img.shields.io/badge/AskAjay.ai-Visit-0E3A5C?style=flat)]({{ links.askajay }}) [![The Brief](https://img.shields.io/badge/The_Brief-Subscribe-0E3A5C?style=flat)]({{ links.brief }}) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)]({{ links.linkedin }}) [![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)]({{ links.x }})
 
 ---
 
-## 🔬 Open Source & Frameworks
+## What I'm working on
 
-| Project | What It Solves |
-|---------|---------------|
-{% for repo in featured_repos -%}
-| [{{ repo.display_name or repo.name }}](https://github.com/apundhir/{{ repo.name }}) | {{ repo.tagline }} |
+{% for item in working_on %}
+- {{ item }}
 {% endfor %}
 
----
-
-## 📊 Impact
-
-| 70% | Multi-million $ | Full-lifecycle |
-|:---:|:---:|:---:|
-| Reduction in enterprise model time-to-deployment | Annualized value through AI-driven optimization | Responsible AI governance operationalized |
+| {{ numbers | map(attribute='value') | join(' | ') }} |
+|{{ ':---:|' * (numbers | length) }}
+| {{ numbers | map(attribute='label') | join(' | ') }} |
 
 ---
 
-## ✏️ Latest Writing
+## Latest writing
 
-<!-- BLOG_POSTS_START -->
-{% for post in blog_posts -%}
+<!-- LATEST_WRITING_START -->
+{% for post in latest_writing %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
-<!-- BLOG_POSTS_END -->
+<!-- LATEST_WRITING_END -->
 
-{% if publications %}
-### Featured Publications
+More at [askajay.ai/thinking]({{ links.askajay }}/thinking). Every other Tuesday I send [The Brief]({{ links.brief }}): one argument, one correction of the week's coverage, one move for Monday.
 
-{% for pub in publications -%}
-{% if pub.featured -%}
-- **{{ pub.title }}** — *{{ pub.publication }}*{% if pub.date %} ({{ pub.date_formatted }}){% endif %}{% if pub.url %} [Read →]({{ pub.url }}){% endif %}
-{% if pub.quote %}  > "{{ pub.quote }}"
-{% endif -%}
-{% endif -%}
-{% endfor -%}
-{% endif %}
+### Published elsewhere
 
----
-
-## 🤝 Advisory & Speaking
-
-{{ aiexponent_tagline }}
-
-**For Organizations & Leaders:** {{ speaking.for_organizations | join(' · ') }}
-
-**For Individuals & Founders:** {{ speaking.for_founders | join(' · ') }}
-
-**Topics:** {{ speaking.topics | join(' · ') }}
-
-{% if speaking.upcoming_events %}
-### Upcoming
-
-{% for event in speaking.upcoming_events -%}
-- **{{ event.name }}** ({{ event.date }}) — *{{ event.topic }}*
+{% for pub in publications %}
+- [{{ pub.title }}]({{ pub.url }}) · *{{ pub.publication }}*{{ ', ' ~ pub.date_formatted if pub.date_formatted }}
 {% endfor %}
-{% endif %}
+
+My [Forbes Technology Council profile]({{ links.forbes }}) has the full list of columns.
 
 ---
 
-## 🤝 Connect
+## Frameworks
 
-{{ connect_text }}
+{{ frameworks | join(' · ') }}
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)]({{ links.linkedin }}) [![AiExponent](https://img.shields.io/badge/AiExponent-Visit-0D7377?style=flat)]({{ links.website }}) [![Forbes](https://img.shields.io/badge/Forbes_Tech_Council-Profile-1a1a1a?style=flat)]({{ links.forbes }}) [![Senior Executive](https://img.shields.io/badge/Senior_Executive-Profile-2c3e50?style=flat)]({{ links.senior_executive }}) [![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)]({{ links.twitter }})
+Free to use, with worksheets, at [askajay.ai/tools]({{ frameworks_url }}).
 
 ---
 
-> {{ signature_quote }}
+## Open source
 
-{% if settings.show_last_updated %}
-<sub>🔄 Profile auto-updated on {{ last_updated }} · Powered by [GitHub Actions](https://github.com/apundhir/apundhir/actions)</sub>
-{% endif %}
+| Project | What it does |
+|---------|--------------|
+{% for p in open_source %}
+| [{{ p.name }}](https://github.com/{{ p.repo }}) | {{ p.what }} |
+{% endfor %}
+
+The first five are built and maintained by [AiExponent]({{ links.aiexponent }}), the product arm of AI Exponent LLC.
+
+---
+
+## Work with me
+
+{% for s in services %}
+- [{{ s.name }}]({{ s.url }}) for {{ s.for }}
+{% endfor %}
+
+The quickest way to reach me is [askajay.ai/connect]({{ links.connect }}).

@@ -1,13 +1,29 @@
 {
-  "scraper_askajay": [],
-  "blog_medium": [],
-  "scraper_senior_executive": [
+  "latest_writing": [
     {
-      "title": "AI 2026: Major Industry and Cultural Shifts (and How to Prepare)",
-      "url": "https://seniorexecutive.com/ai-reshaping-culture-work-2026/",
-      "date": "",
-      "source": "Senior Executive AI Think Tank"
+      "title": "Agentic AI Transformation Is Not a Program",
+      "url": "https://askajay.ai/thinking/agentic-ai-transformation-not-a-program",
+      "source": "AskAjay.ai"
+    },
+    {
+      "title": "Four AI Rule Deadlines Between Now and January 2027",
+      "url": "https://askajay.ai/thinking/regulation-note-2026-10",
+      "source": "AskAjay.ai"
+    },
+    {
+      "title": "Promise Arbitrage: Why Nobody Prices an AI Promise Until Engineering Pays It",
+      "url": "https://askajay.ai/thinking/promise-arbitrage",
+      "source": "AskAjay.ai"
+    },
+    {
+      "title": "The Evaluation Gap: Why Good Boards Fund Bad AI",
+      "url": "https://askajay.ai/thinking/evaluation-gap",
+      "source": "AskAjay.ai"
+    },
+    {
+      "title": "An AI Agent Is a Hire. Measure It Like One.",
+      "url": "https://askajay.ai/thinking/agentic-work-unit-ledger",
+      "source": "AskAjay.ai"
     }
-  ],
-  "last_successful_fetch": "2026-04-04T12:21:13.160131+04:00"
+  ]
 }

@@ -1,165 +1,138 @@
 # ============================================================
-# PROFILE README CONFIGURATION — BRAND-ALIGNED v2
-# Edit this file to update your GitHub profile.
-# Auto-fetched content (blog posts, repo stats) updates daily.
+# PROFILE README CONFIGURATION
+# Edit this file to update the GitHub profile. TEMPLATE.md decides the
+# layout; scripts/update_readme.py renders README.md from both.
 #
-# All messaging here must stay aligned with:
-#     - Forbes Tech Council profile
-#     - Senior Executive AI Think Tank profile
-#     - AiExponent website (aiexponent.com)
+# Positioning: AskAjay-led personal profile (decided 2026-10-13).
+# Facts here follow the AskAjay owner profile. Re-check numbers and
+# credentials there before changing them.
 # ============================================================
 
-# --- IDENTITY (matches Forbes/Senior Executive profiles) ---
+# --- IDENTITY ---
 name: "Ajay Pundhir"
-title: "Global AI Strategist | Head of AI at Presight (G42) | Founder, AiExponent"
+title: "Founder, AI Exponent LLC · AI Strategist · Executive Coach · Speaker"
+tagline: "I help leaders make AI real."
 
-# Tagline: Adapted from Senior Executive bio
-tagline: >
-  Global AI strategist and enterprise leader at the forefront of the autonomous
-  era. I orchestrate the delivery of large-scale, industrial-grade AI platforms at
-  Presight (G42), transforming breakthrough research into sovereign-scale solutions —
-  with a dual commitment to technical precision and institutional integrity,
-  particularly in the operationalization of Responsible and Agentic AI.
+banner:
+  path: "assets/askajay-github-banner.jpg"
+  alt: "Ajay Pundhir. Founder, AI Exponent LLC. AI Strategist, Executive Coach, Speaker. I help leaders make AI real."
 
-# Mission: Consistent across all platforms
-mission_statement: >
-  As Founder of AiExponent, I translate nearly two decades of leadership into
-  high-stakes strategic counsel — Board and Executive Advisory on AI governance,
-  confidential Leadership Coaching for C-suite executives, and founder mentorship
-  through Stanford SEED and LISA programs.
+intro: >
+  I spent fifteen years building AI inside large companies: Nokia, Samsung,
+  American Express and Presight (G42). Today I run AI Exponent LLC full-time.
+  Through AskAjay.ai I advise boards and leadership teams on AI strategy and
+  governance, coach executives, and write about what holds up in production.
+  Through AiExponent.com we build open-source tools that turn EU AI Act duties
+  into evidence a team can check.
 
-# Philosophy pillars (from AiExponent About Me page)
-philosophy:
-  - pillar: "Architect of Transformation"
-    description: "Designing resilient, future-ready organizations by weaving AI responsibly into business strategy"
-  - pillar: "Champion of People"
-    description: "Human-centric AI, psychological safety, ethical frameworks that empower teams"
-  - pillar: "Pragmatic Visionary"
-    description: "Ambitious vision for AI's potential meets practical execution for tangible outcomes"
-
-# --- CREDENTIALS (matches AiExponent credentials section) ---
+# --- CREDENTIALS (confirmed by Ajay 2026-10-13) ---
 credentials:
-  - "IEEE Senior Member"
-  - "HBS Advisory Council"
-  - "MIT Technology Review Committee"
   - "Forbes Technology Council"
-  - "Senior Executive AI Think Tank"
-  - "Stanford SEED & LISA Mentor"
-  - "IAPP AIGP Certified"
+  - "IEEE Senior Member"
+  - "HBR Advisory Council"
+  - "MIT Technology Review Committee"
+  - "Stanford LISA mentor"
+  - "One League Global Mentorship Board"
 
-# --- CURRENTLY EXPLORING (rotate quarterly) ---
-currently_exploring:
-  - "Agentic AI guardrails & safety"
-  - "AI risk classification across regulatory contexts"
-  - "'Cognitive capital' as a measurable organizational asset"
+# --- WHAT I'M WORKING ON (rotate quarterly; match recent writing) ---
+working_on:
+  - "Measuring AI agents the way you measure a new hire"
+  - "Governance that can actually stop a model, not just a policy on paper"
+  - "What boards should ask before they fund an AI programme"
 
-# --- LINKS (all verified platforms) ---
-links:
-  linkedin: "https://linkedin.com/in/ajaypundhir"
-  website: "https://aiexponent.com"
-  twitter: "https://twitter.com/ajaypundhir"
-  instagram: "https://instagram.com/ajaypundhir"
-  forbes: "https://councils.forbes.com/profile/Ajay-Pundhir-Global-AI-Strategist-%7C-Head-AI-G42-Founder-AiExponent-Presight/c10c1e97-df45-47b5-94bc-180b894b9d89"
-  senior_executive: "https://seniorexecutive.com/profile/Ajay-Pundhir-Global-AI-Strategist-%7C-Director-AI-G42-Founder-AiExponent-AiExponent/011aced3-8f79-47f3-be63-ac551d45452f"
-  presight: "https://presight.ai"
+# --- NUMBERS (confirmed by Ajay 2026-10-13) ---
+numbers:
+  - value: "15+"
+    label: "years in AI"
+  - value: "12+"
+    label: "organisations advised"
+  - value: "20+"
+    label: "keynotes and talks"
+  - value: "2,500+"
+    label: "readers of The Brief"
 
-# --- IMPACT METRICS (manual — update as needed) ---
-impact:
-  - metric: "70%"
-    description: "reduction in enterprise model time-to-deployment through standardized AI platform"
-  - metric: "Multi-million $"
-    description: "annualized value delivered through AI-driven optimization and automation"
-  - metric: "Full-lifecycle"
-    description: "Responsible AI governance operationalized across policy, audit, and oversight"
+# --- LATEST WRITING (fetched daily from askajay.ai) ---
+latest_writing:
+  enabled: true
+  url: "https://askajay.ai/thinking"
+  max_items: 5
+  label: "AskAjay.ai"
 
-# --- FEATURED REPOSITORIES (order = display order on README) ---
-featured_repos:
-  - name: "rag-benchmarking"
-    tagline: "Standardized evaluation of RAG pipelines — relevance, faithfulness, latency"
-  - name: "advanced_rag_knowledge_engine"
-    tagline: "Production RAG with knowledge routing, guardrails & observability"
-    display_name: "advanced-rag-knowledge-engine"
-  - name: "license-compliance-checker"
-    tagline: "AI-era license scanning — RAIL, Llama, dataset licenses, SPDX"
-  - name: "agentic_document_analyser"
-    tagline: "High-throughput document intelligence — Qwen2-VL + FastAPI"
-    display_name: "agentic-document-analyser"
-  - name: "ai-roi-calculator"
-    tagline: "Quantify AI initiative business impact for CXO decision-making"
-  - name: "ai_skill_planner"
-    tagline: "Map AI capabilities, identify gaps, generate upskilling roadmaps"
-    display_name: "ai-skill-planner"
-
-# --- DYNAMIC CONTENT SOURCES ---
-rss_feeds:
-
-# --- PUBLICATIONS (manual — Forbes, Senior Executive, Datacentre Dynamics, etc.) ---
+# --- PUBLISHED ELSEWHERE (manual; newest first) ---
 publications:
+  - title: "How The AI Adoption Rate Is A Clock"
+    url: "https://www.forbes.com/councils/forbestechcouncil/2026/09/14/how-the-ai-adoption-rate-is-a-clock/"
+    publication: "Forbes"
+    date: "2026-09-14"
+  - title: "The AI Bubble Won't Burst. It Will Bifurcate."
+    url: "https://www.forbes.com/councils/forbestechcouncil/2026/03/04/the-ai-bubble-wont-burst-it-will-bifurcate/"
+    publication: "Forbes"
+    date: "2026-03-04"
+  - title: "Your Resistant Employees Know Why Your AI Adoption Is Failing"
+    url: "https://www.forbes.com/councils/forbestechcouncil/2026/02/05/your-resistant-employees-know-why-your-ai-adoption-is-failing/"
+    publication: "Forbes"
+    date: "2026-02-05"
   - title: "AI 2026: Major Industry and Cultural Shifts (and How to Prepare)"
     url: "https://seniorexecutive.com/ai-reshaping-culture-work-2026/"
-    publication: "Senior Executive AI Think Tank"
+    publication: "Senior Executive"
     date: "2026-01-20"
-    featured: true
-    quote: "We'll see 'cognitive capital' emerge as a measurable asset, where uniquely human capabilities like ethical reasoning, creative synthesis and stakeholder empathy become premium competencies no algorithm can replicate."
-  - title: "Why Smaller, Task-Specific Language Models Are the Smarter Choice"
-    url: ""
-    publication: "Datacentre Dynamics"
-    date: ""
-    featured: true
 
-scrapers:
-  senior_executive:
-    enabled: true
-    url: "https://seniorexecutive.com/profile/Ajay-Pundhir-Global-AI-Strategist-%7C-Director-AI-G42-Founder-AiExponent-AiExponent/011aced3-8f79-47f3-be63-ac551d45452f"
-    max_items: 5
-    label: "Senior Executive AI Think Tank"
-  askajay:
-    enabled: true
-    url: "https://askajay.ai/thinking"
-    max_items: 5
-    label: "AskAjay"
+# --- FRAMEWORKS (askajay.ai/tools) ---
+frameworks_url: "https://askajay.ai/tools"
+frameworks:
+  - "Minimum Viable AI Governance (MVG)"
+  - "The Trust Premium"
+  - "The PRIME Framework"
+  - "The Liability Ledger"
+  - "Agentic AI Readiness (A7)"
 
-# --- SPEAKING & ADVISORY (matches AiExponent services page) ---
-speaking:
-  for_organizations:
-    - "Board & Executive Advisory"
-    - "Leadership Coaching"
-    - "Speaking Engagements"
-  for_founders:
-    - "AI Startup Mentorship"
-    - "AI Mentoring for Professionals"
-    - "AI Mentoring for Students (pro bono)"
-  topics:
-    - "Enterprise AI Strategy & Sovereign-Scale Platforms"
-    - "Responsible & Agentic AI — Operationalization"
-    - "AI Governance, Risk Classification & Policy"
-    - "From Generative Experimentation to Agentic Reality"
-    - "Cognitive Capital — Valuing Human Judgment in the AI Era"
-  upcoming_events:
-    - name: "Me2We 2026 — Stanford Graduate School of Business"
-      date: "March 2026"
-      topic: "Leading Through Obsolescence"
+# --- OPEN SOURCE ---
+# AiExponent tools: descriptions follow aiexponent-web lib/tools.ts.
+# Article titles checked at ai-act-service-desk.ec.europa.eu on 2026-10-13.
+open_source:
+  - name: "LitmusAI"
+    repo: "aiexponent/litmusai"
+    what: "Offline CLI that screens an AI system description against the EU AI Act Article 5 prohibited practices"
+  - name: "RiskForge"
+    repo: "aiexponent/riskforge"
+    what: "Builds an audit-trailed EU AI Act Article 9 risk management file from the command line"
+  - name: "RAG Benchmarking"
+    repo: "aiexponent/rag-benchmarking"
+    what: "Framework-agnostic evaluation harness for RAG and agentic AI systems"
+  - name: "License Compliance Checker"
+    repo: "aiexponent/license-compliance-checker"
+    what: "License and AI model scanner for software dependencies, with SBOM output"
+  - name: "Agentic Document Analyser"
+    repo: "aiexponent/agentic-document-analyser"
+    what: "Turns documents into structured JSON for compliance evidence, using vision-language models"
+  - name: "Advanced RAG Knowledge Engine"
+    repo: "apundhir/advanced_rag_knowledge_engine"
+    what: "RAG and knowledge routing engine with evaluation, guardrails and observability"
+  - name: "30 Days with Agents"
+    repo: "apundhir/30_days_with_agents"
+    what: "Free course that takes you from agent basics to advanced patterns in 30 days"
 
-# --- CONNECT ---
-connect_text: >
-  Translating AI ambition into tangible reality. Available for board advisory,
-  AI strategy reviews, keynote speaking, executive coaching, and due diligence.
+# --- WORK WITH ME (askajay.ai/work) ---
+services:
+  - name: "Strategic advisory"
+    url: "https://askajay.ai/work/advisory"
+    for: "boards and C-suites"
+  - name: "Agentic transformation"
+    url: "https://askajay.ai/work/agentic-transformation"
+    for: "teams moving agents into real work"
+  - name: "Startup advisory"
+    url: "https://askajay.ai/work/startup-advisory"
+    for: "AI founders building governance in from day one"
+  - name: "Speaking and workshops"
+    url: "https://askajay.ai/work/speaking"
+    for: "conferences and leadership offsites"
 
-# AiExponent tagline (from Senior Executive company bio)
-aiexponent_tagline: >
-  AiExponent is an elite strategic advisory firm dedicated to catalyzing the
-  transition from generative experimentation to agentic AI reality.
-
-# --- QUOTE (from AiExponent website — use as signature element) ---
-signature_quote: >
-  "We don't merely decode the language of numbers. We transform data into wisdom,
-  and curiosity into discovery. Data is the compass that guides us, but it is our
-  human curiosity that sails the ship. Lead with questions, follow with insights."
-
-# --- AUTO-UPDATE SETTINGS ---
-settings:
-  update_frequency: "daily"
-  timezone: "Asia/Dubai"
-  cache_ttl_hours: 24
-  show_last_updated: true
-  show_auto_update_badge: true
+# --- LINKS ---
+links:
+  askajay: "https://askajay.ai"
+  brief: "https://askajay.ai/brief"
+  connect: "https://askajay.ai/connect"
+  linkedin: "https://www.linkedin.com/in/ajaypundhir/"
+  x: "https://x.com/ajaypundhir"
+  forbes: "https://councils.forbes.com/profile/Ajay-Pundhir-Founder-AskAjay-ai-%7C-Director-AI-Presight-G42-AskAjay-ai/c10c1e97-df45-47b5-94bc-180b894b9d89"
+  aiexponent: "https://aiexponent.com"
