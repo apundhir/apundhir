@@ -6,7 +6,7 @@
 
 *I help leaders make AI real.*
 
-I spent fifteen years building AI inside large companies: Nokia, Samsung, American Express and Presight (G42). Today I run AI Exponent LLC full-time. Through AskAjay.ai I advise boards and leadership teams on AI strategy and governance, coach executives, and write about what holds up in production. Through AiExponent.com we build open-source tools that turn EU AI Act duties into evidence a team can check.
+I spent fifteen years building AI inside large companies: Nokia, Samsung, American Express and Presight (G42). Today I run AI Exponent LLC. Through AskAjay.ai I advise boards and leadership teams on AI strategy and governance, coach executives, and write about what holds up in production. Through AiExponent.com we build open-source tools that turn EU AI Act duties into evidence a team can check.
 
 **Credentials:** Forbes Technology Council · IEEE Senior Member · HBR Advisory Council · MIT Technology Review Committee · Stanford LISA mentor · One League Global Mentorship Board
 
